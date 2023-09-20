@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">ProyectoListaLugares</string>
+    <string name="costo_por_alojamiento" tools:ignore="MissingTranslation">Costo por Alojamiento: %1$s</string>
+    <string name="agregar_lugar">Agregar Lugar</string>
+    <string name="costo_por_traslado">Costo por Traslado: %1$s</string>
+    <string name="lugar">Lugar</string>
+    <string name="imagen_de_referencia_url">Imagen de Referencia (URL)</string>
+    <string name="latitud">Latitud</string>
+    <string name="longitud">Longitud</string>
+    <string name="orden">Orden</string>
+    <string name="costo_alojamiento" tools:ignore="MissingTranslation">Costo Alojamiento</string>
+    <string name="costo_traslado">Costo Traslado</string>
+    <string name="comentario">Comentario</string>
+    <string name="guardar">Guardar</string>
+    <string name="volver">Volver</string>
+</resources>

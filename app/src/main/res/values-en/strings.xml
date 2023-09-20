@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ProyectoListaLugares</string>
+    <string name="costo_por_alojamiento">Cost Accommodation: %1$s</string>
+    <string name="agregar_lugar">Add Place</string>
+    <string name="costo_por_traslado">Cost Transport: %1$s</string>
+    <string name="lugar">Place</string>
+    <string name="imagen_de_referencia_url">Reference Image (URL)</string>
+    <string name="latitud">Latitude</string>
+    <string name="longitud">Longitude</string>
+    <string name="orden">Order</string>
+    <string name="costo_alojamiento">Accommodation Cost</string>
+    <string name="costo_traslado">Transport Cost</string>
+    <string name="comentario">Comment</string>
+    <string name="guardar">Save</string>
+    <string name="volver">Back</string>
+
+</resources>
